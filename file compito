@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>codice github re</title>
+</head>
+<body>
+<p>cibi preferiti
+<ul>pasta</ul><!--il testo e le liste-->
+<ol>pizza</ol>
+<ol>lasagna</ol>
+<img src="https://cdn.ilclubdellericette.it/wp-content/uploads/2022/01/pasta-al-pomodoro-9-700x1000.jpg"style="width:100px;heigth:1000px;">
+<img src="https://ilfattoalimentare.it/wp-content/uploads/2022/12/Depositphotos_505971914_L-1.jpg"style="width:200px;heigth:300px;"> 
+<img src="https://static01.nyt.com/images/2023/08/31/multimedia/RS-Lasagna-hkjl/RS-Lasagna-hkjl-superJumbo.jpg"style="width:200px;heigth:200px;"> 
+<a href="https://www.cedior.com/curiosita-e-benefici-della-rapa/">rape</a>
+</body><!--le immagini, il ink e gli sili-->
+</html>
