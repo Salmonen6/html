@@ -1,0 +1,22 @@
+body{
+    background: "https://1.bp.blogspot.com/-aPQ6E1c25GI/XIIuJ5iIoDI/AAAAAAAAsHg/7CArmQeaaIATyTHNZ6GPzwgWYtnZFKBHACLcBGAs/s1600/cesare.jpg";
+}
+img{
+    box-sizing: border-box;
+    vertical-align: top;
+    height: 250px;
+    width: 150px;
+}
+table{
+    border:5px solid black;
+    width: 99px;
+}
+span{
+    background-color: blue;
+}
+h1{
+    border:5px solid black;
+}
+h2{
+    background-color: chocolate;
+}
